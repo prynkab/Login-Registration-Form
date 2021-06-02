@@ -1,1 +1,11 @@
 # Login-Registration-Form
+- This is a dynamic Login Registration Form designed using HTML, CSS and developed using javascript, PHP, MySQL. 
+- The first page is a login page consisting input area for email and password and the email and password will be checked from the database and action will take place likewise.
+- The Registration area consists of input area for name, username, phone email, password and confirm password.
+- The SQL database from phpMyAdmin has: 
+- - id which is the primary key of int datatype
+- -Name which is Varchar datatype
+- -username which is Varchar datatype
+- -phone which is Varchar datatype
+- - email which is a Varchar datatype
+- - password which is a Varchar datatype
