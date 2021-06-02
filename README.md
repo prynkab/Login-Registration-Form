@@ -4,8 +4,8 @@
 - The Registration area consists of input area for name, username, phone email, password and confirm password.
 - The SQL database from phpMyAdmin has: 
 - - id which is the primary key of int datatype
-- -Name which is Varchar datatype
-- -username which is Varchar datatype
-- -phone which is Varchar datatype
+- - Name which is Varchar datatype
+- - username which is Varchar datatype
+- - phone which is Varchar datatype
 - - email which is a Varchar datatype
 - - password which is a Varchar datatype
